@@ -1,0 +1,18 @@
+.copy_right_footer {
+    position: fixed;
+    color: rgb(176, 218, 122);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(78, 48, 187);
+    line-height: 3;
+    text-align: center;
+  }
+
+  .test_image_and_result {
+      background-color: rgb(96, 194, 194);
+      color: blue;
+  }
+.header {
+    color: salmon;
+}
+ 
